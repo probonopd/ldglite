@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=ldglite
+GenericName=ldglite LDRAW viewer and editor
+Categories=Graphics;
+Exec=ldglite %f
+Icon=ldglite
+MimeType=application/x-ldraw;application/x-multipart-ldraw;
